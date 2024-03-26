@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Poppins:wght@400&display=swap');
+
+.hero-section{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+}
+p{
+    color: #333333;
+    font-size: 20px;
+}
+.left-side {
+    padding-top: 2.5rem;
+}
+
+.right-side{
+    width:50%;
+}
+.right-side img{
+    width: -webkit-fill-available;
+    color: #333333;
+}
+.introduction{
+    font-size: 80px;
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 400;
+    width: 80%;
+}
+.greetings{
+    font-size: 25px;
+    font-weight: 500;
+}
+.introduction span{
+    color: #dc0155;
+}
+.btn{
+    padding: 15px;
+    background-color: #dc0155;
+    border-radius: 25px;
+    width: 150px;
+    text-align: center;
+    color: #fff;
+    margin-top: 15px;
+    border: none;
+}

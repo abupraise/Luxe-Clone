@@ -1,0 +1,26 @@
+h1{
+    color: #333333;
+    font-family: 'Bebas Neue', sans-serif;
+}
+.wrapper{
+    display: flex;
+    padding-top: 10px;
+}
+.card1{
+    width: 200px;
+    margin-top: 30px;
+}
+.card1 h3{
+    margin-top: 5px;
+}
+.card1 p{
+    margin-top: 10px;
+    font-size: 12px;
+    color: #909090;
+}
+.card2, .card3{
+    margin-left: 120px;
+}
+.service{
+    padding-top: 25px;
+}
