@@ -7,9 +7,9 @@ const Hero = () => {
     <div className='hero-section'>
       <div className='left-side'>
         <div className='text'>
-          <p className='greetings'>Hi there</p>
-          <h1 className='introduction'><span>LUXE</span> IS HERE TO BE YOUR ASSISTANT</h1>
-          <p>I am here ready to help</p>
+          <p className='hello-text'>Hi there!</p>
+          <h1 className='intro-text'><span>LUXE </span>IS HERE TO BE YOUR ASSISTANT</h1>
+          <p>I am here ready to help you in making creative digital products</p>
         </div>
         <button className='btn'>Let's Discuss</button>
       </div>

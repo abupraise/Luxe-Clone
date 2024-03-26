@@ -1,13 +1,13 @@
 import Header from './components/header/Header';
 import Hero from './components/hero/Hero';
-import Service from './components/service/Service';
+import Footer from './components/footer/Services';
 
 function App() {
   return (
     <div className="App">
       <Header />
       <Hero />
-      <Service />
+      <Footer />
      </div>
   );
 }

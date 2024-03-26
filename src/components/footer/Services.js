@@ -15,12 +15,12 @@ const service = () => {
             </div>
             <div className='card1 card2'>
                 <img src={ui_ux}/>
-            <h3>Branding</h3>
+            <h3>UI/UX</h3>
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit,</p>
             </div>
         <div className='card1 card3'>
             <img src={product} />
-            <h3>Branding</h3>
+            <h3>Product Design</h3>
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit,</p>
         </div>
         </div>
